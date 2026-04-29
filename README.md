@@ -70,8 +70,11 @@ C:\wamp64\www\
    No arquivo salvar.php, ajuste a variável $db para o nome do banco de dados que você criou se necessário:
 
   $host = "localhost";
+  
   $user = "root";
+  
   $password = "";
+  
   $db = "barbearia"; //possível ajuste aqui com o nome do banco de dados se necessário.
 
   5. Rodar o projeto
