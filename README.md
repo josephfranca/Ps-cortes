@@ -13,12 +13,15 @@ Tecnologias utilizadas
 Front-end:
 
 HTML
+
 CSS
+
 JavaScript
 
 Back-end:
 
 PHP
+
 MySQL
 
 Funcionalidades
@@ -80,5 +83,7 @@ C:\wamp64\www\
   5. Rodar o projeto
 
    Inicie o apache (XAMPP/WAMP)
+   
    Acesse no navegador:
+   
    http://localhost/nome-da-pasta
