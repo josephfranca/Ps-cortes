@@ -57,13 +57,13 @@ C:\wamp64\www\
 
 3. Configurar o banco de dados
    
-1. Abra o phpMyAdmin
+   Abra o phpMyAdmin
    (Geralmente: http://localhost/phpmyadmin)
    
-2. Crie um banco de dados
+   Crie um banco de dados
    (Exemplo: barbearia)
    
-3. Importe o arquivo
+   Importe o arquivo
    bd.sql
    
 4. Configurar conexão com o banco
@@ -76,6 +76,6 @@ C:\wamp64\www\
 
   5. Rodar o projeto
 
-  1. Inicie o apache (XAMPP/WAMP)
-  2. Acesse no navegador:
-     http://localhost/nome-da-pasta
+   Inicie o apache (XAMPP/WAMP)
+   Acesse no navegador:
+   http://localhost/nome-da-pasta
